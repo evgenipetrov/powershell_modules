@@ -8,6 +8,6 @@ This is bult mostly for training and utility building purposes.
 
 ## Installation
 
-The modules should be placed in $PSHOME path
+The modules should be placed in $env:PSModulePath path
 
 
